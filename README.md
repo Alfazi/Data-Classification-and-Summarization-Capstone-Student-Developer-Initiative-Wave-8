@@ -13,7 +13,7 @@ Dua pendekatan dibandingkan:
 2. **Granite LLM (via Replicate API)**: Model IBM Granite yang memberi label + penjelasan
 
 ## 📊 Dataset
-- **Sumber**: Reddit Mental Health [Kaggle](https://www.kaggle.com/datasets/neelghoshal/reddit-mental-health-data)
+- **Sumber**: Reddit Mental Health Data (From [Kaggle](https://www.kaggle.com/datasets/neelghoshal/reddit-mental-health-data))
 - **Jumlah data**: 5.957 postingan
 - **Fitur**:
   - `text`: isi postingan
